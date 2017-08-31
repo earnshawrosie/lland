@@ -6,6 +6,9 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.lottoland.rps.game.Move;
+import com.lottoland.rps.player.FixedPlayer;
+import com.lottoland.rps.player.Player;
+import com.lottoland.rps.player.RandomPlayer;
 
 public class PlayerTest {
 

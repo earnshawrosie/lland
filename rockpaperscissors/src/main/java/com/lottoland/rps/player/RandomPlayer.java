@@ -1,4 +1,4 @@
-package com.lottoland.rps;
+package com.lottoland.rps.player;
 
 import java.util.Random;
 
